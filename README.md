@@ -43,7 +43,7 @@ The dashboard enables users to explore customer distribution across different st
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
